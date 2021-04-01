@@ -1,7 +1,7 @@
 # ML-Models-Deployment
 # Model Deployment with Python
 
-##Learning Outcomes
+## Learning Outcomes
 By the end of this topic, you will have achieved the following learning outcomes:
 > - I can define model deployment in data science.
 > - I can explain the importance of the model deployment process.
